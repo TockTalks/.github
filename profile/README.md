@@ -151,33 +151,33 @@
 
 | 분류 | 기술 |
 |---|---|
-| 언어 / 프레임워크 | Java 21, Spring Boot 4.1, Gradle |
-| ORM | Spring Data JPA |
-| 인증 | Spring Security, JWT |
-| 실시간 통신 | Spring WebSocket + STOMP |
-| 캐시 / 락 / Pub-Sub | Redis 7 |
+| 언어 / 프레임워크 | ![Java](https://img.shields.io/badge/Java-21-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) |
+| ORM | ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white) |
+| 인증 | ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) |
+| 실시간 통신 | ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge) ![STOMP](https://img.shields.io/badge/STOMP-6DB33F?style=for-the-badge) |
+| 캐시 / 락 / Pub-Sub | ![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
 
 ### Database
 
 | 분류 | 기술 |
 |---|---|
-| RDBMS | MySQL 8.0 |
-| 캐시 스토어 | Redis 7 (Upstash) |
+| RDBMS | ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| 캐시 스토어 | ![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=black) |
 
 ### Frontend
 
 | 분류 | 기술 |
 |---|---|
-| 프레임워크 | React 19, TypeScript, Vite |
-| 실시간 통신 | @stomp/stompjs |
-| 차트 | Recharts |
+| 프레임워크 | ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
+| 실시간 통신 | ![StompJS](https://img.shields.io/badge/%40stomp%2Fstompjs-010101?style=for-the-badge) |
+| 차트 | ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge) |
 
 ### 외부 연동
 
 | 분류 | 기술 |
 |---|---|
-| 시세 | 한국투자증권(KIS) Open API |
-| 소셜 로그인 | Kakao OAuth2 |
+| 시세 | ![KIS](https://img.shields.io/badge/한국투자증권-KIS%20Open%20API-00857C?style=for-the-badge) |
+| 소셜 로그인 | ![Kakao](https://img.shields.io/badge/Kakao%20OAuth2-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black) |
 
 ---
 
